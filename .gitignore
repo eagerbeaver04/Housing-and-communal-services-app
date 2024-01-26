@@ -1,0 +1,14 @@
+./vs
+./bin
+./obj
+./packages
+./properties
+App.config
+Form1.resx
+Form2.resx
+Form3.resx
+Form4.resx
+Form5.resx
+Form6.resx
+Form7.resx
+Form8.resx
