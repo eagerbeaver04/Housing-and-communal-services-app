@@ -15,3 +15,11 @@ This project is an application for the interaction of housing and communal servi
 4. Financial picture of the enterprise by 
     1. Houses
     2. Services
+
+## Examples of reports
+
+Examples of reports are in example_of_reports folder.
+
+## Examples of forms 
+
+Examples of forms are in example_of_forms folder
